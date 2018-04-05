@@ -1,0 +1,378 @@
+[
+    {
+        "time_period_start": "2018-01-01T00:00:00.0000000Z",
+        "price_close": 13443.41
+    },
+    {
+        "time_period_start": "2018-01-02T00:00:00.0000000Z",
+        "price_close": 14678.94
+    },
+    {
+        "time_period_start": "2018-01-03T00:00:00.0000000Z",
+        "price_close": 15155.62
+    },
+    {
+        "time_period_start": "2018-01-04T00:00:00.0000000Z",
+        "price_close": 15143.67
+    },
+    {
+        "time_period_start": "2018-01-05T00:00:00.0000000Z",
+        "price_close": 16928
+    },
+    {
+        "time_period_start": "2018-01-06T00:00:00.0000000Z",
+        "price_close": 17149.67
+    },
+    {
+        "time_period_start": "2018-01-07T00:00:00.0000000Z",
+        "price_close": 16124.02
+    },
+    {
+        "time_period_start": "2018-01-08T00:00:00.0000000Z",
+        "price_close": 14999.99
+    },
+    {
+        "time_period_start": "2018-01-09T00:00:00.0000000Z",
+        "price_close": 14403.51
+    },
+    {
+        "time_period_start": "2018-01-10T00:00:00.0000000Z",
+        "price_close": 14890.02
+    },
+    {
+        "time_period_start": "2018-01-11T00:00:00.0000000Z",
+        "price_close": 13243.83
+    },
+    {
+        "time_period_start": "2018-01-12T00:00:00.0000000Z",
+        "price_close": 13781.41
+    },
+    {
+        "time_period_start": "2018-01-13T00:00:00.0000000Z",
+        "price_close": 14197.78
+    },
+    {
+        "time_period_start": "2018-01-14T00:00:00.0000000Z",
+        "price_close": 13647.99
+    },
+    {
+        "time_period_start": "2018-01-15T00:00:00.0000000Z",
+        "price_close": 13607.04
+    },
+    {
+        "time_period_start": "2018-01-16T00:00:00.0000000Z",
+        "price_close": 11386.34
+    },
+    {
+        "time_period_start": "2018-01-17T00:00:00.0000000Z",
+        "price_close": 11191.35
+    },
+    {
+        "time_period_start": "2018-01-18T00:00:00.0000000Z",
+        "price_close": 11247.57
+    },
+    {
+        "time_period_start": "2018-01-19T00:00:00.0000000Z",
+        "price_close": 11552
+    },
+    {
+        "time_period_start": "2018-01-20T00:00:00.0000000Z",
+        "price_close": 12775.99
+    },
+    {
+        "time_period_start": "2018-01-21T00:00:00.0000000Z",
+        "price_close": 11558.87
+    },
+    {
+        "time_period_start": "2018-01-22T00:00:00.0000000Z",
+        "price_close": 10808.99
+    },
+    {
+        "time_period_start": "2018-01-23T00:00:00.0000000Z",
+        "price_close": 10851.82
+    },
+    {
+        "time_period_start": "2018-01-24T00:00:00.0000000Z",
+        "price_close": 11400.96
+    },
+    {
+        "time_period_start": "2018-01-25T00:00:00.0000000Z",
+        "price_close": 11155.54
+    },
+    {
+        "time_period_start": "2018-01-26T00:00:00.0000000Z",
+        "price_close": 11092.95
+    },
+    {
+        "time_period_start": "2018-01-27T00:00:00.0000000Z",
+        "price_close": 11446.54
+    },
+    {
+        "time_period_start": "2018-01-28T00:00:00.0000000Z",
+        "price_close": 11685.58
+    },
+    {
+        "time_period_start": "2018-01-29T00:00:00.0000000Z",
+        "price_close": 11162.62
+    },
+    {
+        "time_period_start": "2018-01-30T00:00:00.0000000Z",
+        "price_close": 9971
+    },
+    {
+        "time_period_start": "2018-01-31T00:00:00.0000000Z",
+        "price_close": 10149
+    },
+    {
+        "time_period_start": "2018-02-01T00:00:00.0000000Z",
+        "price_close": 8998.99
+    },
+    {
+        "time_period_start": "2018-02-02T00:00:00.0000000Z",
+        "price_close": 8838.83
+    },
+    {
+        "time_period_start": "2018-02-03T00:00:00.0000000Z",
+        "price_close": 9225.86
+    },
+    {
+        "time_period_start": "2018-02-04T00:00:00.0000000Z",
+        "price_close": 8191
+    },
+    {
+        "time_period_start": "2018-02-05T00:00:00.0000000Z",
+        "price_close": 6874.27
+    },
+    {
+        "time_period_start": "2018-02-06T00:00:00.0000000Z",
+        "price_close": 7737.37
+    },
+    {
+        "time_period_start": "2018-02-07T00:00:00.0000000Z",
+        "price_close": 7588.01
+    },
+    {
+        "time_period_start": "2018-02-08T00:00:00.0000000Z",
+        "price_close": 8259.76
+    },
+    {
+        "time_period_start": "2018-02-09T00:00:00.0000000Z",
+        "price_close": 8693.98
+    },
+    {
+        "time_period_start": "2018-02-10T00:00:00.0000000Z",
+        "price_close": 8560
+    },
+    {
+        "time_period_start": "2018-02-11T00:00:00.0000000Z",
+        "price_close": 8067
+    },
+    {
+        "time_period_start": "2018-02-12T00:00:00.0000000Z",
+        "price_close": 8899
+    },
+    {
+        "time_period_start": "2018-02-13T00:00:00.0000000Z",
+        "price_close": 8522.99
+    },
+    {
+        "time_period_start": "2018-02-14T00:00:00.0000000Z",
+        "price_close": 9490.98
+    },
+    {
+        "time_period_start": "2018-02-15T00:00:00.0000000Z",
+        "price_close": 10018
+    },
+    {
+        "time_period_start": "2018-02-16T00:00:00.0000000Z",
+        "price_close": 10196
+    },
+    {
+        "time_period_start": "2018-02-17T00:00:00.0000000Z",
+        "price_close": 11101
+    },
+    {
+        "time_period_start": "2018-02-18T00:00:00.0000000Z",
+        "price_close": 10421.06
+    },
+    {
+        "time_period_start": "2018-02-19T00:00:00.0000000Z",
+        "price_close": 11173
+    },
+    {
+        "time_period_start": "2018-02-20T00:00:00.0000000Z",
+        "price_close": 11233.41
+    },
+    {
+        "time_period_start": "2018-02-21T00:00:00.0000000Z",
+        "price_close": 10449.4
+    },
+    {
+        "time_period_start": "2018-02-22T00:00:00.0000000Z",
+        "price_close": 9843.34
+    },
+    {
+        "time_period_start": "2018-02-23T00:00:00.0000000Z",
+        "price_close": 10166.1
+    },
+    {
+        "time_period_start": "2018-02-24T00:00:00.0000000Z",
+        "price_close": 9689.99
+    },
+    {
+        "time_period_start": "2018-02-25T00:00:00.0000000Z",
+        "price_close": 9590.04
+    },
+    {
+        "time_period_start": "2018-02-26T00:00:00.0000000Z",
+        "price_close": 10324.7
+    },
+    {
+        "time_period_start": "2018-02-27T00:00:00.0000000Z",
+        "price_close": 10566.3
+    },
+    {
+        "time_period_start": "2018-02-28T00:00:00.0000000Z",
+        "price_close": 10314.9
+    },
+    {
+        "time_period_start": "2018-03-01T00:00:00.0000000Z",
+        "price_close": 10903.13
+    },
+    {
+        "time_period_start": "2018-03-02T00:00:00.0000000Z",
+        "price_close": 11029.99
+    },
+    {
+        "time_period_start": "2018-03-03T00:00:00.0000000Z",
+        "price_close": 11445
+    },
+    {
+        "time_period_start": "2018-03-04T00:00:00.0000000Z",
+        "price_close": 11463.27
+    },
+    {
+        "time_period_start": "2018-03-05T00:00:00.0000000Z",
+        "price_close": 11419.24
+    },
+    {
+        "time_period_start": "2018-03-06T00:00:00.0000000Z",
+        "price_close": 10723.76
+    },
+    {
+        "time_period_start": "2018-03-07T00:00:00.0000000Z",
+        "price_close": 9913.03
+    },
+    {
+        "time_period_start": "2018-03-08T00:00:00.0000000Z",
+        "price_close": 9285.32
+    },
+    {
+        "time_period_start": "2018-03-09T00:00:00.0000000Z",
+        "price_close": 9230
+    },
+    {
+        "time_period_start": "2018-03-10T00:00:00.0000000Z",
+        "price_close": 8791.47
+    },
+    {
+        "time_period_start": "2018-03-11T00:00:00.0000000Z",
+        "price_close": 9535.04
+    },
+    {
+        "time_period_start": "2018-03-12T00:00:00.0000000Z",
+        "price_close": 9120.75
+    },
+    {
+        "time_period_start": "2018-03-13T00:00:00.0000000Z",
+        "price_close": 9142.32
+    },
+    {
+        "time_period_start": "2018-03-14T00:00:00.0000000Z",
+        "price_close": 8196.69
+    },
+    {
+        "time_period_start": "2018-03-15T00:00:00.0000000Z",
+        "price_close": 8265.05
+    },
+    {
+        "time_period_start": "2018-03-16T00:00:00.0000000Z",
+        "price_close": 8258.54
+    },
+    {
+        "time_period_start": "2018-03-17T00:00:00.0000000Z",
+        "price_close": 7860.83
+    },
+    {
+        "time_period_start": "2018-03-18T00:00:00.0000000Z",
+        "price_close": 8188.24
+    },
+    {
+        "time_period_start": "2018-03-19T00:00:00.0000000Z",
+        "price_close": 8596.93
+    },
+    {
+        "time_period_start": "2018-03-20T00:00:00.0000000Z",
+        "price_close": 8904.02
+    },
+    {
+        "time_period_start": "2018-03-21T00:00:00.0000000Z",
+        "price_close": 8893.79
+    },
+    {
+        "time_period_start": "2018-03-22T00:00:00.0000000Z",
+        "price_close": 8704.67
+    },
+    {
+        "time_period_start": "2018-03-23T00:00:00.0000000Z",
+        "price_close": 8920.79
+    },
+    {
+        "time_period_start": "2018-03-24T00:00:00.0000000Z",
+        "price_close": 8547
+    },
+    {
+        "time_period_start": "2018-03-25T00:00:00.0000000Z",
+        "price_close": 8453.9
+    },
+    {
+        "time_period_start": "2018-03-26T00:00:00.0000000Z",
+        "price_close": 8149.66
+    },
+    {
+        "time_period_start": "2018-03-27T00:00:00.0000000Z",
+        "price_close": 7791.7
+    },
+    {
+        "time_period_start": "2018-03-28T00:00:00.0000000Z",
+        "price_close": 7932.41
+    },
+    {
+        "time_period_start": "2018-03-29T00:00:00.0000000Z",
+        "price_close": 7088.38
+    },
+    {
+        "time_period_start": "2018-03-30T00:00:00.0000000Z",
+        "price_close": 6850
+    },
+    {
+        "time_period_start": "2018-03-31T00:00:00.0000000Z",
+        "price_close": 6928.62
+    },
+    {
+        "time_period_start": "2018-04-01T00:00:00.0000000Z",
+        "price_close": 6813.52
+    },
+    {
+        "time_period_start": "2018-04-02T00:00:00.0000000Z",
+        "price_close": 7052.76
+    },
+    {
+        "time_period_start": "2018-04-03T00:00:00.0000000Z",
+        "price_close": 7416.27
+    },
+    {
+        "time_period_start": "2018-04-04T00:00:00.0000000Z",
+        "price_close": 6898.01
+    }
+]
